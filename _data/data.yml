@@ -16,7 +16,7 @@ sidebar:
     phone: 381 61 2242532
     timezone: CEST
     website: nenadwritesdocs.com #do not add http://
-    linkedin: [Nenad Pajovic](https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159)
+    linkedin: https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -25,34 +25,10 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
+      Technical writer with five years of experience in the IT  industry. Skilled in creating clear, concise, and user-friendly  documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including  developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies, including Markdown, and version control systems. Can talk for hours about technology, bicycles, and cooking.ion:
     title: Education
     info:
       - degree: MSc in Computer Science
